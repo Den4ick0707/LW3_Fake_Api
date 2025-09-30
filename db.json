@@ -1,0 +1,21 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice", "email": "alice@example.com", "role": "admin" },
+    { "id": 2, "name": "Bob", "email": "bob@example.com", "role": "user" },
+    { "id": 3, "name": "Oleksiy", "email": "oleksiy@example.com", "role": "admin" },
+    { "id": 4, "name": "Daniil", "email": "daniil@example.com", "role": "admin" },
+    { "id": 5, "name": "Igor", "email": "igor@example.com", "role": "user" },
+    { "id": 6, "name": "Denys", "email": "denys@example.com", "role": "user" },
+    { "id": 7, "name": "Oleg", "email": "oleg@example.com", "role": "use" },
+    { "id": 8, "name": "Ivan", "email": "ivan@example.com", "role": "user" },
+       { "id": 1, "name": "Vasyl", "email": "vasyl@example.com", "role": "admin" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Hello REST", "userId": 1, "tags": ["intro","rest"] },
+    { "id": 2, "title": "JSON Tips", "userId": 2, "tags": ["json"] },
+    { "id": 3, "title": "JSON Test", "userId": 3, "tags": ["json","test"] },
+    { "id": 4, "title": "Chort", "userId": 4, "tags": ["json"] },
+    { "id": 5, "title": "Hello word", "userId": 5, "tags": ["intro","rest"] },
+    { "id": 6, "title": "REST", "userId": 6, "tags": ["rest"] },
+  ]
+}
