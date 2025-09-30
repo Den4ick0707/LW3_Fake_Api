@@ -8,7 +8,7 @@
     { "id": 6, "name": "Denys", "email": "denys@example.com", "role": "user" },
     { "id": 7, "name": "Oleg", "email": "oleg@example.com", "role": "use" },
     { "id": 8, "name": "Ivan", "email": "ivan@example.com", "role": "user" },
-       { "id": 1, "name": "Vasyl", "email": "vasyl@example.com", "role": "admin" }
+    { "id": 1, "name": "Vasyl", "email": "vasyl@example.com", "role": "admin" },
   ],
   "posts": [
     { "id": 1, "title": "Hello REST", "userId": 1, "tags": ["intro","rest"] },
